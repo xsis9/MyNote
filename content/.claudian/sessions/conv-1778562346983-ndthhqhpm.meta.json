@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778562346983-ndthhqhpm",
+  "providerId": "claude",
+  "title": "**创建机器学习笔记：LoRA微调原理**\n\n这个标题简洁明了，概括了你的主要任务。",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778562346983,
+  "updatedAt": 1779191264902,
+  "lastResponseAt": 1779191264902,
+  "sessionId": "b1da48c7-e9ca-4a2c-80df-8fcbdc499f80",
+  "providerState": {
+    "providerSessionId": "b1da48c7-e9ca-4a2c-80df-8fcbdc499f80"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 108695,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 108695,
+    "percentage": 54,
+    "contextWindowIsAuthoritative": true
+  }
+}

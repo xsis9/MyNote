@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778562163206-cki1uzlvu",
+  "providerId": "claude",
+  "title": "**对话标题：用户询问身份**\n\n---\n\n我是 Claude Code，一个 AI 编程助手...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778562163210,
+  "updatedAt": 1778562225565,
+  "lastResponseAt": 1778562168842,
+  "sessionId": "92a9934d-2add-426a-8b0e-791366b41d5e",
+  "providerState": {
+    "providerSessionId": "92a9934d-2add-426a-8b0e-791366b41d5e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 21762,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 21883,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

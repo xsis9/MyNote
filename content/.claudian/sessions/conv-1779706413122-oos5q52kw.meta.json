@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779706413122-oos5q52kw",
+  "providerId": "claude",
+  "title": "# 新建笔记：Flash Attention 各版本原理讲解",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779706413126,
+  "updatedAt": 1779893226559,
+  "lastResponseAt": 1779893226559,
+  "sessionId": "9cec2e35-483d-4f3f-ba6d-36becd6b5e14",
+  "providerState": {
+    "providerSessionId": "9cec2e35-483d-4f3f-ba6d-36becd6b5e14"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 214,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 152960,
+    "contextWindow": 200000,
+    "contextTokens": 153174,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}
