@@ -17,8 +17,6 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       - run: npm ci
       - run: npx quartz build --skip-build-lock
       - uses: actions/upload-pages-artifact@v3
