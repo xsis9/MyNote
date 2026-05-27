@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: yoursite.github.io
+  baseUrl: xsis9.github.io/MyNote
   ignorePatterns:
     - private
     - templates
